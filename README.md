@@ -2,7 +2,7 @@
 
 > **基於 Python Socket 之遠端系統管理與安全測試工具**
 
-本專案起源於「駭客攻防」課程，為了理解遠端控制工具背後的運作原理，我使用 **Python 自行建立 Client-Server 架構**，並於 **Kali Linux ↔ Windows 虛擬化靶機**環境進行測試。
+本專案起源於「駭客攻防」課程，為了理解遠端控制工具背後的運作原理，我使用 **Python 建立 Client-Server 架構**，並於 **Kali Linux ↔ Windows 虛擬化靶機**環境進行測試。
 
 ##  我做了什麼？
 
