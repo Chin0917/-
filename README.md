@@ -39,7 +39,7 @@ Windows Client
   <img width="1090" height="619" alt="image" src="https://github.com/user-attachments/assets/59452558-9299-463c-99e6-cbceeb503e72" />
 
   <img width="1028" height="422" alt="image" src="https://github.com/user-attachments/assets/97a894b8-16c6-4240-9fda-05a1746e984a" />
-- PyInstaller 第三方函式庫缺失問題
+- PyInstaller 第三方函式庫的缺失問題
   <img width="597" height="193" alt="image" src="https://github.com/user-attachments/assets/8a578db9-7930-453a-ad8b-af152b3bf8dd" />
   <img width="565" height="331" alt="image" src="https://github.com/user-attachments/assets/68976d84-f647-4c2a-9676-91bbb75f80d9" />
   
