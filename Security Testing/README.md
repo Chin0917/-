@@ -35,16 +35,12 @@ Windows Client
 - **PyInstaller**：程式打包與部署
 
 ##  問題與解決
-
-- 防止被刪掉增加註冊機碼的編寫
-  <img width="1090" height="619" alt="image" src="https://github.com/user-attachments/assets/59452558-9299-463c-99e6-cbceeb503e72" />
-
   <img width="1028" height="422" alt="image" src="https://github.com/user-attachments/assets/97a894b8-16c6-4240-9fda-05a1746e984a" />
 - PyInstaller 第三方函式庫的缺失問題
   <img width="597" height="193" alt="image" src="https://github.com/user-attachments/assets/8a578db9-7930-453a-ad8b-af152b3bf8dd" />
   <img width="565" height="331" alt="image" src="https://github.com/user-attachments/assets/68976d84-f647-4c2a-9676-91bbb75f80d9" />
   
-  手動加註打包
+  手動加註打包hidden-import=requests
 
 - Client 連線失敗後的自動重新連線
   <img width="956" height="550" alt="image" src="https://github.com/user-attachments/assets/399424c2-0f90-41cb-9a47-6c124d406854" />
@@ -52,18 +48,26 @@ Windows Client
 
 - 文字、JSON、檔案、圖片等不同資料型態的傳輸
 ##  實際成果
-遠端啟動
+- 遠端啟動
 <img width="1090" height="289" alt="image" src="https://github.com/user-attachments/assets/5b3302dd-9936-4302-8e5d-d2f9a8a9fb7d" />
-遠端截圖
+
+- 遠端截圖
 <img width="618" height="581" alt="image" src="https://github.com/user-attachments/assets/a71108de-7176-40bb-ab7e-1772654b1e32" />
-鍵盤紀錄
+
+- 鍵盤紀錄
 <img width="1089" height="317" alt="image" src="https://github.com/user-attachments/assets/35c68fff-726d-4ab8-b87f-c4469cacd0c9" />
-功能清單
+
+- 功能清單
 <img width="1090" height="628" alt="image" src="https://github.com/user-attachments/assets/71ca68c2-9dbd-4d38-83c4-d7ce2656ee8a" />
-剪貼簿監控
+
+- 剪貼簿監控
 <img width="536" height="277" alt="image" src="https://github.com/user-attachments/assets/1d79d080-fd8f-4f44-82b9-c2db7902d5e1" />
-系統資訊蒐集
+
+- 系統資訊蒐集
 <img width="1090" height="564" alt="image" src="https://github.com/user-attachments/assets/03fc9a41-f415-4925-a2ff-a040a40fe0a2" />
+
+- 註冊機碼的編寫
+  <img width="1090" height="619" alt="image" src="https://github.com/user-attachments/assets/59452558-9299-463c-99e6-cbceeb503e72" />
 
 ##  收穫
 
