@@ -51,6 +51,19 @@ Windows Client
 
 
 - 文字、JSON、檔案、圖片等不同資料型態的傳輸
+##  實際成果
+遠端啟動
+<img width="1090" height="289" alt="image" src="https://github.com/user-attachments/assets/5b3302dd-9936-4302-8e5d-d2f9a8a9fb7d" />
+遠端截圖
+<img width="618" height="581" alt="image" src="https://github.com/user-attachments/assets/a71108de-7176-40bb-ab7e-1772654b1e32" />
+鍵盤紀錄
+<img width="1089" height="317" alt="image" src="https://github.com/user-attachments/assets/35c68fff-726d-4ab8-b87f-c4469cacd0c9" />
+功能清單
+<img width="1090" height="628" alt="image" src="https://github.com/user-attachments/assets/71ca68c2-9dbd-4d38-83c4-d7ce2656ee8a" />
+剪貼簿監控
+<img width="536" height="277" alt="image" src="https://github.com/user-attachments/assets/1d79d080-fd8f-4f44-82b9-c2db7902d5e1" />
+系統資訊蒐集
+<img width="1090" height="564" alt="image" src="https://github.com/user-attachments/assets/03fc9a41-f415-4925-a2ff-a040a40fe0a2" />
 
 ##  收穫
 
