@@ -7,8 +7,8 @@ import struct
 import sys
 
 
-HostIP="192.168.56.106"
-HostPort=54321
+HostIP="192.168.XX.XXX"
+HostPort=5XXXX
 
 HEADER_FORMAT = ">I"
 
