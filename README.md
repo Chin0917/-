@@ -35,10 +35,16 @@ Windows Client
 
 實作過程中自行處理：
 
-- 以防被刪掉增加註冊機碼的編寫
-- <img width="1028" height="422" alt="image" src="https://github.com/user-attachments/assets/97a894b8-16c6-4240-9fda-05a1746e984a" />
+- 防止被刪掉增加註冊機碼的編寫
+  <img width="1090" height="619" alt="image" src="https://github.com/user-attachments/assets/59452558-9299-463c-99e6-cbceeb503e72" />
 
+  <img width="1028" height="422" alt="image" src="https://github.com/user-attachments/assets/97a894b8-16c6-4240-9fda-05a1746e984a" />
 - PyInstaller 第三方函式庫缺失問題
+  <img width="597" height="193" alt="image" src="https://github.com/user-attachments/assets/8a578db9-7930-453a-ad8b-af152b3bf8dd" />
+  <img width="565" height="331" alt="image" src="https://github.com/user-attachments/assets/68976d84-f647-4c2a-9676-91bbb75f80d9" />
+  
+  手動加註打包
+
 - Client 連線失敗後的自動重新連線
 - 文字、JSON、檔案、圖片等不同資料型態的傳輸
 
