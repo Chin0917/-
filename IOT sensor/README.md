@@ -55,6 +55,8 @@ BM53A367A
 -  即時取得心跳訊號
 -  計算並顯示 BPM
 -  上傳心跳資料至 ThingSpeak
+  <img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/ea7bfdad-0a10-4dc2-aa01-315b4b27891e" />
+
 -  OLED 遠端顯示心跳數值
 -  BPM 超過設定範圍時啟動 LED 警示
 -  透過 MQTT 完成雙裝置資料傳輸
