@@ -35,7 +35,9 @@ Windows Client
 
 實作過程中自行處理：
 
-- TCP 資料傳輸不完整與 `upload` 卡住問題
+- 以防被刪掉增加註冊機碼的編寫
+- <img width="1028" height="422" alt="image" src="https://github.com/user-attachments/assets/97a894b8-16c6-4240-9fda-05a1746e984a" />
+
 - PyInstaller 第三方函式庫缺失問題
 - Client 連線失敗後的自動重新連線
 - 文字、JSON、檔案、圖片等不同資料型態的傳輸
