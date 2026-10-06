@@ -4,7 +4,7 @@
 
 本專案利用 **BM53A367A 微控制器、XD-58C 心跳感測器、BMC81M001 WiFi 模組與 ThingSpeak**，建立一套具備心跳量測、雲端傳輸與遠端警示功能的 IoT 系統。
 
-##  我做了什麼？
+##  簡易流程
 
 ```text
 使用者
@@ -41,9 +41,7 @@ BM53A367A
 - **LED**：異常心跳警示
 - **Peak Detection / Threshold**：判斷心跳訊號並計算 BPM
 
-##  我解決了什麼問題？
-
-實作過程中自行處理：
+##  問題解決
 
 - WiFi 模組接線錯誤造成的 `WiFi FAIL`
 - RX / TX 與 SDA / SCL 腳位衝突問題
