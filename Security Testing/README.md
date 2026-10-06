@@ -4,7 +4,7 @@
 
 本專案起源於「駭客攻防」課程，為了理解遠端控制工具背後的運作原理，我使用 **Python 建立 Client-Server 架構**，並於 **Kali Linux ↔ Windows 虛擬化靶機**環境進行測試。
 
-##  我做了什麼？
+##  簡易流程
 
 ```text
 Kali Linux
@@ -31,9 +31,7 @@ Windows Client
 - **pynput**：鍵盤事件測試
 - **PyInstaller**：程式打包與部署
 
-##  我解決了什麼問題？
-
-實作過程中自行處理：
+##  問題與解決
 
 - 防止被刪掉增加註冊機碼的編寫
   <img width="1090" height="619" alt="image" src="https://github.com/user-attachments/assets/59452558-9299-463c-99e6-cbceeb503e72" />
