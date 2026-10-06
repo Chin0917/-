@@ -25,6 +25,9 @@ Windows Client
 ##  核心技術
 
 - **Python / TCP Socket**：建立 Client-Server 通訊
+  <img width="525" height="440" alt="image" src="https://github.com/user-attachments/assets/625607d8-1ee7-4c8d-a510-e410061d4aab" />
+  <img width="503" height="472" alt="image" src="https://github.com/user-attachments/assets/bc56cb44-d79b-4891-b67b-3969a6daa095" />
+
 - **JSON / UTF-8 / Base64**：處理不同類型資料傳輸
 - **subprocess**：執行 Windows 系統指令
 - **mss**：螢幕擷取
